@@ -1,0 +1,3 @@
+# 国内镜像配置：npm 包统一走 npmmirror，加速依赖安装
+[install]
+registry = "https://registry.npmmirror.com"
